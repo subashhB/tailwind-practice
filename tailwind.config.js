@@ -9,6 +9,9 @@ module.exports = {
           100: "#E2E2D5", // text secondary-100
           200: "#888883", //text secondary-200
         }
+      },
+      fontFamily:{
+        body: ['Nunito'],
       }
     },
   },
